@@ -1,0 +1,21 @@
+<svg width="3" height="129" viewBox="0 0 3 129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="3" height="129" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="5189" transform="translate(-514 -700)" fill="white"/>
+<g id="Rectangle 264" opacity="0.06" filter="url(#filter0_f_0_1)">
+<rect x="-328.421" y="17.3477" width="1068.84" height="189.218" rx="10" fill="#0D1025"/>
+</g>
+<rect id="Rectangle 252" x="-364" y="-35.4507" width="1140" height="200" rx="10" fill="white"/>
+<path id="Vector 14" d="M1.5 1.76257V127.336" stroke="#EEEFF2" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-442.421" y="-96.6523" width="1296.84" height="417.218" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="57" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="5189" fill="white" transform="translate(-514 -700)"/>
+</clipPath>
+</defs>
+</svg>

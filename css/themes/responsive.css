@@ -1,0 +1,36 @@
+@media (max-width:500px){
+    .nav-list{
+        display: none;
+    }
+    .nav-btn{
+        display: block;
+        margin-left: 10px;
+        margin-right: 15px;
+    }
+    .site__heading{
+            font-size: 30px;
+    }
+
+    .site__paragraph{
+        font-size: 19px;
+    }
+    .site-hero{
+        grid-template-columns: 1fr;
+        margin-top: 12px;
+    }
+    .card-user{
+        display: block;
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+

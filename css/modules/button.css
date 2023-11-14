@@ -1,0 +1,117 @@
+.btn__sm{
+    padding: 13.5px 45px;
+    background-color: transparent;
+    border:none;
+    font-family: "Rubik";
+    font-size: 16px; 
+    font-weight: 500;
+
+
+}
+.btn__lg{
+    padding: 17.5px 45px;
+    background-color: transparent;
+    border:none;
+    color: black;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px; /* 156.25% */
+}
+
+.btn__transparent{   
+    color: #0B132A;
+
+    
+}
+
+.btn__outline{
+    color: #F53855;
+    
+}
+
+.btn__transparent:hover{
+    transform: scale(1.2);
+    box-shadow: 3px 3px 3px rgb(216, 78, 78);
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 50px;
+    border: 1px solid #F53855;
+}
+
+.btn__outline:hover{
+    transform: scale(1.2);
+    box-shadow: 3px 3px 3px rgb(216, 78, 78);
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 50px;
+    border: 1px solid #F53855;
+}
+
+.if__hover:hover{
+    width: 250px;
+    height: 60px;
+    color: #FFF;
+    cursor: pointer;   
+    border-radius: 10px;
+    background: #F53838;
+    box-shadow: 0px 0px 45px 0px rgb(251, 137, 137);
+
+}
+
+
+.site-hero__right img{
+    padding-top: 180px;
+}
+
+.site__heading{
+    padding: 170px 0px 0px 0px;
+}
+
+
+.select__btn{
+    margin: 0px 75px;
+    padding: 0px 70px;
+
+    background-color: transparent;
+    border:none;
+    color: black;
+    font-family: "Rubik";
+    border-radius: 50px;
+    border: 2px solid #F53838;
+    width: 177.876px;
+    height: 45px;
+    flex-shrink: 0;
+    
+    
+}
+
+.select__btn:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px rgb(238, 168, 168);
+    width: 177.876px;
+    height: 45px;
+    flex-shrink: 0;
+    color: #FFF;
+    background: #F53838;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+.nav-btn{
+    border: none;
+    background: transparent;
+}
+
+.nav-btn img{
+    height: 30px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
